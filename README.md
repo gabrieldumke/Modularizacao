@@ -1,2 +1,2 @@
-# Modularizacao
-Sistema feito para auxiliar o estoque de uma livraria enquanto exercitava modularização.
+# Modularizando meu código.
+Sistema completinho para estoque de livraria.
